@@ -1,0 +1,63 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#aboutTable {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: #DCD8D6;
+}
+
+th,
+td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid whitesmoke;
+    height: 100px;
+}
+
+th {
+    background-color: #979595;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Lucida Console';
+    text-align: center;
+}
+
+td {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Lucida Console';
+    text-align: left;
+    vertical-align: top;
+    padding: 15px;
+}
+
+p {
+    font-weight: bold;
+    font-family: 'Courier New';
+    text-align: right;
+    background-color: teal;
+    color: black;
+}
+
+#card {
+    background-color: #E46A2D;
+}
+
+#read {
+    background-color: #7A9BB4;
+}
